@@ -1,0 +1,9 @@
+    [{
+        "id": "1",
+        "task_text": "Which scheme illustrates the rule of thirds?",
+        "task_conditions": "Choose the right answer",
+        "task_image": "./src/assets/task_img.png",
+        "correct_answer": "A",
+        "answer_options": ["A", "B", "C"]
+    }
+]
